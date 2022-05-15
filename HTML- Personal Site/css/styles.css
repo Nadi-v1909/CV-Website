@@ -1,0 +1,19 @@
+body {
+  background-color: #000;
+  background-image: url(images/milkyway.gif);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: #F7F7F7;
+}
+
+.circular {
+  border-radius: 28%;
+}
+
+h1:hover {
+  color: #FBFF64;
+}
+
+h3 {
+  color: #E900FF;
+}
